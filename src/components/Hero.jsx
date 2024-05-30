@@ -15,13 +15,13 @@ const Hero = () => {
             <iframe
               className="rounded-lg lg:w-1/2 border border-violet-500 shadow-violet-900 mx-2 my-4"
               allowFullScreen
-              src="https://www.youtube.com/embed/2fDzCWNS3ig"
+              src="#"
             >
             </iframe>
             <iframe
               className="rounded-lg lg:w-1/2 border border-violet-500 shadow-violet-900 mx-2 my-4"
               allowFullScreen
-              src="https://www.youtube.com/embed/rSYoIuyks8g"
+              src="#"
             >
             </iframe>
         </div>
